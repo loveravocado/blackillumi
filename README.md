@@ -1,1 +1,3 @@
 # blackillumi
+* raspi_blackillumiはRaspberrypi上でセンサTSL2572と接続しないと実行できない
+* 描画のみを実行する場合はpc_blackillumiをProcessing上で実行する
